@@ -1,6 +1,6 @@
 <div style="border: 2px solid #ccc; border-radius: 10px; padding: 20px; max-width: 800px; margin: 0 auto; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
     <h1 style="text-align: center;">🧑‍💻 Olá, eu sou o Antônio Neto - Desenvolvedor Back End e Analista de Dados!!</h1>
-    <p>Tenho experiência em algumas linguagens de programação e frameworks, com um foco especial em [sua área de especialização, Ex: desenvolvimento web, inteligência].</p>
+    <p>Tenho experiência em algumas linguagens de programação e frameworks, com um foco especial em dados e Python.</p>
     <p>💼 Atualmente, estou trabalhando focado em dados, onde estou envolvido em uma estruturação da área. E começarei a postar meus projetos desenvolvidos aqui.</p>
     <p>📚 Eu adoro aprender coisas novas e estou sempre à procura de desafios que possam me ajudar a crescer tanto profissionalmente quanto pessoalmente. No meu tempo livre, costumo contribuir para projetos open-source, explorar novas tecnologias, jogar videogames e comer em lugares diferentes.</p>
     <h2>🔧 Habilidades:</h2>
